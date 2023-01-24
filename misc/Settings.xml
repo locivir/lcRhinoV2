@@ -13,7 +13,7 @@
   <XmlSetting>
     <Name>CrvSelfIntersectColor</Name>
     <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
-    <Data>-8388652</Data>
+    <Data>Color [Color [Color [Color [Color [Color [Color [Color [Color [Color [Aquamarine]]]]]]]]]]</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>CrvSelfIntersectEnabled</Name>
@@ -33,7 +33,7 @@
   <XmlSetting>
     <Name>CustomFingerSize</Name>
     <Type>System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>AAEAAAD/////AQAAAAAAAAAEAQAAAOIBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuRGljdGlvbmFyeWAyW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtTeXN0ZW0uRG91YmxlLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQQAAAAHVmVyc2lvbghDb21wYXJlcghIYXNoU2l6ZQ1LZXlWYWx1ZVBhaXJzAAMAAwiSAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkdlbmVyaWNFcXVhbGl0eUNvbXBhcmVyYDFbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dCOYBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuS2V5VmFsdWVQYWlyYDJbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV0sW1N5c3RlbS5Eb3VibGUsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dW11hAAAACQIAAADFAAAACQMAAAAEAgAAAJIBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuR2VuZXJpY0VxdWFsaXR5Q29tcGFyZXJgMVtbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0AAAAABwMAAAAAAQAAAGEAAAAD5AFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5LZXlWYWx1ZVBhaXJgMltbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XSxbU3lzdGVtLkRvdWJsZSwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0E/P///+QBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuS2V5VmFsdWVQYWlyYDJbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV0sW1N5c3RlbS5Eb3VibGUsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAANrZXkFdmFsdWUBAAYGBQAAAAEwarx0kxhEJ0AB+v////z///8GBwAAAALCvHnpJjEIrCdAAfj////8////BgkAAAACwr0UrkfhehQoQAH2/////P///wYLAAAAAsK+I9v5fmp8KEAB9P////z///8GDQAAAAExMQisHFrkKEAB8v////z///8GDwAAAAMxwrw/NV66SUwpQAHw/////P///wYRAAAAAzHCvU5iEFg5tClAAe7////8////BhMAAAADMcK+6SYxCKwcKkAB7P////z///8GFQAAAAEy+FPjpZuEKkAB6v////z///8GFwAAAAMywrwGgZVDi+wqQAHo/////P///wYZAAAAAzLCvRSuR+F6VCtAAeb////8////BhsAAAADMsK+I9v5fmq8K0AB5P////z///8GHQAAAAEzvp8aL90kLEAB4v////z///8GHwAAAAMzwrzNzMzMzIwsQAHg/////P///wYhAAAAAzPCvdv5fmq89CxAAd7////8////BiMAAAADM8K+6SYxCKxcLUAB3P////z///8GJQAAAAE0+FPjpZvELUAB2v////z///8GJwAAAAM0wryTGARWDi0uQAHY/////P///wYpAAAAAzTCvaJFtvP9lC5AAdb////8////BisAAAADNMK+sHJoke38LkAB1P////z///8GLQAAAAE1vp8aL91kL0AB0v////z///8GLwAAAAM1wrzNzMzMzMwvQAHQ/////P///wYxAAAAAzXCvbTIdr6fGjBAAc7////8////BjMAAAADNcK+O99PjZdOMEABzP////z///8GNQAAAAE2w/UoXI+CMEAByv////z///8GNwAAAAM2wrxKDAIrh7YwQAHI/////P///wY5AAAAAzbCvdEi2/l+6jBAAcb////8////BjsAAAADNsK+H4XrUbgeMUABxP////z///8GPQAAAAE3ppvEILBSMUABwv////z///8GPwAAAAM3wrwtsp3vp4YxQAHA/////P///wZBAAAAAzfCvbTIdr6fujFAAb7////8////BkMAAAADN8K+O99PjZfuMUABvP////z///8GRQAAAAE4iUFg5dAiMkABuv////z///8GRwAAAAM4wrwQWDm0yFYyQAG4/////P///wZJAAAAAzjCvZhuEoPAijJAAbb////8////BksAAAADOMK+H4XrUbi+MkABtP////z///8GTQAAAAE5ppvEILDyMkABsv////z///8GTwAAAAM5wrz0/dR46SYzQAGw/////P///wZRAAAAAznCvXsUrkfhWjNAAa7////8////BlMAAAADOcK+AiuHFtmOM0ABrP////z///8GVQAAAAIxMIlBYOXQwjNAAar////8////BlcAAAAEMTDCvBBYObTI9jNAAaj////8////BlkAAAAEMTDCvV66SQwCKzRAAab////8////BlsAAAAEMTDCvuXQItv5XjRAAaT////8////Bl0AAAACMTFt5/up8ZI0QAGi/////P///wZfAAAABDExwrz0/dR46cY0QAGg/////P///wZhAAAABDExwr17FK5H4fo0QAGe/////P///wZjAAAABDExwr7Jdr6fGi81QAGc/////P///wZlAAAAAjEyUI2XbhJjNUABmv////z///8GZwAAAAQxMsK816NwPQqXNUABmP////z///8GaQAAAAQxMsK9XrpJDALLNUABlv////z///8GawAAAAQxMsK+5dAi2/n+NUABlP////z///8GbQAAAAIxMzMzMzMzMzZAAZL////8////Bm8AAAAEMTPCvLpJDAIrZzZAAZD////8////BnEAAAAEMTPCvUJg5dAimzZAAY7////8////BnMAAAAEMTPCvsl2vp8azzZAAYz////8////BnUAAAACMTRQjZduEgM3QAGK/////P///wZ3AAAABDE0wrye76fGSzc3QAGI/////P///wZ5AAAABDE0wr0lBoGVQ2s3QAGG/////P///wZ7AAAABDE0wr6sHFpkO583QAGE/////P///wZ9AAAAAjE1MzMzMzPTN0ABgv////z///8GfwAAAAQxNcK8ukkMAisHOEABgP////z///8GgQAAAAQxNcK9CKwcWmQ7OEABfv////z///8GgwAAAAQxNcK+j8L1KFxvOEABfP////z///8GhQAAAAIxNhfZzvdTozhAAXr////8////BocAAAAEMTbCvJ7vp8ZL1zhAAXj////8////BokAAAAEMTbCvSUGgZVDCzlAAXb////8////BosAAAAEMTbCvjqSy39IPzlAAXT////8////Bo0AAAACMTdPHhZqTXM5QAFy/////P///waPAAAABDE3wrxlqmBUUqc5QAFw/////P///waRAAAABDE3wr16Nqs+V9s5QAFu/////P///waTAAAABDE3wr6PwvUoXA86QAFs/////P///waVAAAAAjE4pU5AE2FDOkABav////z///8GlwAAAAQxOMK8utqK/WV3OkABaP////z///8GmQAAAAQxOMK9z2bV52qrOkABZv////z///8GmwAAAAQxOMK+5fIf0m/fOkABZP////z///8GnQAAAAIxOfp+arx0EztAAWL////8////Bp8AAAAEMTnCvA8LtaZ5RztAAWD////8////BqEAAAAEMTnCvSSX/5B+eztAAV7////8////BqMAAAAEMTnCvjojSnuDrztAAVz////8////BqUAAAACMjBPr5RliOM7QAFa/////P///wanAAAABDIwwrxkO99PjRc8QAFY/////P///wapAAAABDIwwr16xyk6kks8QAFW/////P///warAAAABDIwwr6PU3Qkl388QAFU/////P///watAAAAAjIxpN++DpyzPEABUv////z///8GrwAAAAQyMcK8umsJ+aDnPEABUP////z///8GsQAAAAQyMcK9z/dT46UbPUABTv////z///8GswAAAAQyMcK+5IOezapPPUABTP////z///8GtQAAAAIyMvkP6bevgz1AAUr////8////BrcAAAAEMjLCvA+cM6K0tz1AAUj////8////BrkAAAAEMjLCvSQofoy56z1AAUb////8////BrsAAAAEMjLCvjm0yHa+Hz5AAUT////8////Br0AAAACMjNPQBNhw1M+QAFC/////P///wa/AAAABDIzwrxkzF1LyIc+QAFA/////P///wbBAAAABDIzwr15WKg1zbs+QAE+/////P///wbDAAAABDIzwr6P5PIf0u8+QAE8/////P///wbFAAAAAjI0pHA9CtcjP0AL</Data>
+    <Data>0=11.633,¼=11.836,½=12.04,¾=12.243,1=12.446,1¼=12.649,1½=12.852,1¾=13.056,2=13.259,2¼=13.462,2½=13.66,2¾=13.868,3=14.072,3¼=14.275,3½=14.478,3¾=14.681,4=14.884,4¼=15.088,4½=15.291,4¾=15.494,5=15.697,5¼=15.9,5½=16.104,5¾=16.307,6=16.51,6¼=16.713,6½=16.913,6¾=17.12,7=17.323,7¼=17.526,7½=17.729,7¾=17.932,8=18.136,8¼=18.339,8½=18.542,8¾=18.745,9=18.948,9¼=19.152,9½=19.355,9¾=19.558,10=19.761,10¼=19.964,10½=20.168,10¾=20.371,11=20.574,11¼=20.777,11½=20.98,11¾=21.184,12=21.387,12¼=21.59,12½=21.793,12¾=21.996,13=22.2,13¼=22.403,13½=22.606,13¾=22.809,14=23.012,14¼=23.216,14½=23.419,14¾=23.622,15=23.825,15¼=24.028,15½=24.232,15¾=24.435,16=24.638</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>Debugging</Name>
@@ -48,7 +48,7 @@
   <XmlSetting>
     <Name>FingerSizeColor</Name>
     <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
-    <Data>-16777216</Data>
+    <Data>Color [Color [Color [Color [Color [Color [Color [Color [Color [Color [Black]]]]]]]]]]</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>FingerSizeOffset</Name>
@@ -73,7 +73,7 @@
   <XmlSetting>
     <Name>KeepSettingsOnUpdate</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>True</Data>
+    <Data>False</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>MultiOrientCustomAngle</Name>
@@ -83,7 +83,7 @@
   <XmlSetting>
     <Name>MultiOrientOffset</Name>
     <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>0.15</Data>
+    <Data>0.1</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>MultiOrientRotation</Name>
@@ -97,26 +97,6 @@
   </XmlSetting>
   <XmlSetting>
     <Name>MultiOrientShowProfile</Name>
-    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>True</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>PanelFlowCurveVisible</Name>
-    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>PanelLayerVisible</Name>
-    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>PanelSprueVisible</Name>
-    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>PanelStonesVisible</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data>True</Data>
   </XmlSetting>
@@ -163,7 +143,7 @@
   <XmlSetting>
     <Name>SprueOverlap</Name>
     <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>1</Data>
+    <Data>0.02</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>SprueTextFont</Name>
@@ -188,7 +168,7 @@
   <XmlSetting>
     <Name>StoneDisplayColor</Name>
     <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
-    <Data>-16777216</Data>
+    <Data>Color [Color [Color [Color [Color [Color [Color [Color [Color [Color [Black]]]]]]]]]]</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneDisplayEnabled</Name>
@@ -203,17 +183,12 @@
   <XmlSetting>
     <Name>StoneDisplayFont</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>Calibri|12|Regular</Data>
+    <Data>Arial|12|Regular</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneDisplayOffset</Name>
     <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data>0.15</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>StoneDisplayRecalculateProfiles</Name>
-    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneDisplayRounding</Name>
@@ -223,7 +198,7 @@
   <XmlSetting>
     <Name>StoneDisplaySignificance</Name>
     <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>2</Data>
+    <Data>3</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneDisplayStyle</Name>
@@ -233,27 +208,12 @@
   <XmlSetting>
     <Name>StoneDisplayUseObjectColor</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>StoneInfoGemLayerColor</Name>
-    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>Gem</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>StoneInfoGemLayerName</Name>
-    <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
-    <Data>-16711681</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>StoneInfoUseCPlane</Name>
-    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
+    <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneInsertLayerColor</Name>
     <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
-    <Data>-16741493</Data>
+    <Data>Color [Color [Color [Color [Color [Color [Color [Color [Color [Color [DarkCyan]]]]]]]]]]</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneInsertLayerName</Name>
@@ -283,7 +243,7 @@
   <XmlSetting>
     <Name>StoneSummarySeparator</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data> x </Data>
+    <Data> x</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneSummarySort</Name>
@@ -301,18 +261,8 @@
     <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
-    <Name>TextOnObjectFont</Name>
-    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>Arial Rounded MT Bold</Data>
-  </XmlSetting>
-  <XmlSetting>
-    <Name>TextOnObjectSize</Name>
-    <Type>System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>1.2</Data>
-  </XmlSetting>
-  <XmlSetting>
     <Name>Version</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>2.6.232.0</Data>
+    <Data>2.6.286.0</Data>
   </XmlSetting>
 </ArrayOfXmlSetting>
