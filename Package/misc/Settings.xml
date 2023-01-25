@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfXmlSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XmlSetting>
+    <Name>AutoSaveDefaultSettings</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>AutoSaveSettings</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>CrvSelfIntersectColor</Name>
+    <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
+    <Data>#FF7FFFD4</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>CrvSelfIntersectEnabled</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>CrvSelfIntersectSize</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>5</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>CrvSelfIntersectStyle</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>CustomFingerSize</Name>
+    <Type>System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0=11.633,¼=11.836,½=12.04,¾=12.243,1=12.446,1¼=12.649,1½=12.852,1¾=13.056,2=13.259,2¼=13.462,2½=13.66,2¾=13.868,3=14.072,3¼=14.275,3½=14.478,3¾=14.681,4=14.884,4¼=15.088,4½=15.291,4¾=15.494,5=15.697,5¼=15.9,5½=16.104,5¾=16.307,6=16.51,6¼=16.713,6½=16.913,6¾=17.12,7=17.323,7¼=17.526,7½=17.729,7¾=17.932,8=18.136,8¼=18.339,8½=18.542,8¾=18.745,9=18.948,9¼=19.152,9½=19.355,9¾=19.558,10=19.761,10¼=19.964,10½=20.168,10¾=20.371,11=20.574,11¼=20.777,11½=20.98,11¾=21.184,12=21.387,12¼=21.59,12½=21.793,12¾=21.996,13=22.2,13¼=22.403,13½=22.606,13¾=22.809,14=23.012,14¼=23.216,14½=23.419,14¾=23.622,15=23.825,15¼=24.028,15½=24.232,15¾=24.435,16=24.638</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>Debugging</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>EULA</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>FingerSizeColor</Name>
+    <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
+    <Data>#FF000000</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>FingerSizeOffset</Name>
+    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>FingerSizeStandard</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>10</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>FingerSizeStepping</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>4</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>FingerSizeUseLayer</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>KeepSettingsOnUpdate</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>MultiOrientCustomAngle</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>MultiOrientOffset</Name>
+    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0.1</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>MultiOrientRotation</Name>
+    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>MultiOrientScale</Name>
+    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>1</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>MultiOrientShowProfile</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotInsertFilename</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotLayout</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>View4</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotMode</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>Screen</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotPostfix</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data> cad-view</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotPrefix</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data />
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotShowStoneSize</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotTransparent</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotZoom</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>SprueOverlap</Name>
+    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0.02</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>SprueTextFont</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>Arial Rounded MT Bold</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>SprueTextSize</Name>
+    <Type>System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>1.2</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>SprueUseBase</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>SprueUseScrew</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayColor</Name>
+    <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
+    <Data>#FF000000</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayEnabled</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayFilter</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False,True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayFont</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>Arial|12|Regular</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayOffset</Name>
+    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>0.15</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayRounding</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>1</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplaySignificance</Name>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>2</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayStyle</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>Offset</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneDisplayUseObjectColor</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneInsertLayerColor</Name>
+    <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
+    <Data>#FF008B8B</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneInsertLayerName</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>Gem</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneInsertUseCPlane</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneSummaryAbbreviation</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneSummaryExtended</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneSummaryGrouped</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneSummarySeparator</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data> x</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneSummarySort</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneSummarySuffix</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>mm</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>StoneUseBlocks</Name>
+    <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>True</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>Version</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>2.6.317.0</Data>
+  </XmlSetting>
+</ArrayOfXmlSetting>
