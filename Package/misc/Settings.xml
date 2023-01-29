@@ -52,7 +52,7 @@
   </XmlSetting>
   <XmlSetting>
     <Name>FingerSizeOffset</Name>
-    <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Type>System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data>0</Data>
   </XmlSetting>
   <XmlSetting>
@@ -73,7 +73,7 @@
   <XmlSetting>
     <Name>KeepSettingsOnUpdate</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
+    <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>MultiOrientCustomAngle</Name>
@@ -83,7 +83,7 @@
   <XmlSetting>
     <Name>MultiOrientOffset</Name>
     <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>0.1</Data>
+    <Data>0.15</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>MultiOrientRotation</Name>
@@ -101,6 +101,11 @@
     <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
+    <Name>ScreenshotDateFormat</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data>yyyy-MM-dd</Data>
+  </XmlSetting>
+  <XmlSetting>
     <Name>ScreenshotInsertFilename</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data>False</Data>
@@ -116,11 +121,6 @@
     <Data>Screen</Data>
   </XmlSetting>
   <XmlSetting>
-    <Name>ScreenshotPostfix</Name>
-    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data> cad-view</Data>
-  </XmlSetting>
-  <XmlSetting>
     <Name>ScreenshotPrefix</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data />
@@ -129,6 +129,11 @@
     <Name>ScreenshotShowStoneSize</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data>False</Data>
+  </XmlSetting>
+  <XmlSetting>
+    <Name>ScreenshotSuffix</Name>
+    <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
+    <Data> cad-view</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>ScreenshotTransparent</Name>
@@ -243,7 +248,7 @@
   <XmlSetting>
     <Name>StoneSummarySeparator</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data> x</Data>
+    <Data> x </Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneSummarySort</Name>
@@ -263,6 +268,6 @@
   <XmlSetting>
     <Name>Version</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>2.6.317.0</Data>
+    <Data>2.6.370.0</Data>
   </XmlSetting>
 </ArrayOfXmlSetting>

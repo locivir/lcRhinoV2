@@ -19,7 +19,7 @@
         </text>
         <tool_bar_id>6f106367-e2fa-4ef1-9407-cdacad0b1248</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59481" mru_width="868" point_pos="-2,-2" float_point="875,327" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="515,62" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59489" mru_width="868" point_pos="-2,-2" float_point="875,327" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="515,62" />
     </tool_bar_group>
     <tool_bar_group guid="a8795a54-f956-4fdd-96e9-407b2c21d495" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="fdce833d-3865-49a3-a9f0-e9b95fe4f4d5" active_tool_bar_group="81252255-66a0-4ca2-bf5b-b61cd5165c9b" single_file="False" hide_single_tab="False" point_floating="1884,82">
       <text>
@@ -31,7 +31,7 @@
         </text>
         <tool_bar_id>8932da32-264b-4845-b0aa-e860509cca05</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="True" floating="False" mru_float_style="8192" bar_id="59482" mru_width="868" point_pos="1400,55" float_point="1884,82" rect_mru_dock_pos="1400,55,1920,112" dock_location_u="59419" dock_location="top" float_size="232,62" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="True" floating="False" mru_float_style="8192" bar_id="59490" mru_width="868" point_pos="1400,55" float_point="1884,82" rect_mru_dock_pos="1400,55,1920,112" dock_location_u="59419" dock_location="top" float_size="232,62" />
     </tool_bar_group>
     <tool_bar_group guid="e7cac76c-e2d4-4e0c-9337-018ecd3e3bcb" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="e67d3fd6-95c0-4e0d-b676-f5eed174e3b1" active_tool_bar_group="8cd1f048-ee8d-4504-b2ee-77fd9b674b06" single_file="False" hide_single_tab="False" point_floating="-762,180">
       <text>
@@ -43,7 +43,7 @@
         </text>
         <tool_bar_id>c8f2d337-b86c-4c69-b394-5f7c3b345958</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59483" mru_width="32767" point_pos="-2,-2" float_point="-762,180" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="350,62" />
+      <dock_bar_info dpi_scale="100" dock_bar="False" docking="True" horz="False" visible="False" floating="True" mru_float_style="8192" bar_id="59491" mru_width="32767" point_pos="-2,-2" float_point="-762,180" rect_mru_dock_pos="0,0,0,0" dock_location_u="59420" dock_location="left" float_size="350,62" />
     </tool_bar_group>
   </tool_bar_groups>
   <tool_bars>
@@ -888,7 +888,7 @@
       <menu_text>
         <locale_1033>Summary (extended)</locale_1033>
       </menu_text>
-      <script>!-lcStones Panel=Hide</script>
+      <script>!-lcStones Manage EditForm</script>
     </macro_item>
     <macro_item guid="f0ab510d-94f8-482b-8494-108d3f809cbc" bitmap_id="9f71a42b-1876-441c-a26d-4185cb6ba902">
       <text>
