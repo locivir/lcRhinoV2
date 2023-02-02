@@ -888,7 +888,7 @@
       <menu_text>
         <locale_1033>Summary (extended)</locale_1033>
       </menu_text>
-      <script>!-lcStones Manage EditForm</script>
+      <script>!-lcStones Panel=Hide</script>
     </macro_item>
     <macro_item guid="f0ab510d-94f8-482b-8494-108d3f809cbc" bitmap_id="9f71a42b-1876-441c-a26d-4185cb6ba902">
       <text>
@@ -1452,7 +1452,7 @@ Echo</script>
       <bitmap_item guid="537d3665-10c9-47b6-bc06-0399e9c23ee9" index="59" />
       <bitmap_item guid="3be44ca6-48c4-4b5b-84ef-21be3513c14f" index="60" />
       <bitmap>iVBORw0KGgoAAAANSUhEUgAAABAAAAPQCAYAAAA/8/tIAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
-AAAOvAAADrwBlbxySQAAZm5JREFUeF7tvQk8Vl+0N37SPPzSpFHJmBAyJmOmIhkiIlKRqcyVZpUG
+AAAOwQAADsEBuJFr7QAAZm5JREFUeF7tvQk8Vl+0N37SPPzSpFHJmBAyJmOmIhkiIlKRqcyVZpUG
 Kk0ooiShSSTSoDQoUlJIowaa51mi8/3vfZ5HpZDfvf973/e9t6/P8pyzz15rz2uvtc8+5zC/wvZD
 iLfVg7k3zMtmXTG95JdgWzxvo1lJQIrlzaAbZrdnXTEvDZzIj9oQbpeCO1k+XXDGrDjgiumuaTr8
 4AbQPu1qMfqW393R1wMS+EE/YPJk1lmjsx7J/NMmMYFhWuvf8skzKvP+IcTw7ZwFo4o8zvJPKVrx
@@ -1977,7 +1977,7 @@ tAIR4tke7QK6kNHZ/5dBxDD/Hy+ApgDBMIQ0AAAAAElFTkSuQmCC</bitmap>
       <bitmap_item guid="537d3665-10c9-47b6-bc06-0399e9c23ee9" index="59" />
       <bitmap_item guid="3be44ca6-48c4-4b5b-84ef-21be3513c14f" index="60" />
       <bitmap>iVBORw0KGgoAAAANSUhEUgAAABgAAAW4CAYAAACrUwOxAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
-AAAOvAAADrwBlbxySQAA1PRJREFUeF7svQVcVU/UNnrEVhRFEQFJKUFKWlTCQARBREJREMUAFAs7
+AAAOwQAADsEBuJFr7QAA1PRJREFUeF7svQVcVU/UNnrEVhRFEQFJKUFKWlTCQARBREJREMUAFAs7
 sAtR7G6xEzsxQVQUBRQLMeju3s+d2eeAoAc86P/9vvvey3N+63f2zJ5Za3rW5ObUibYccSl7DUej
 fU4nB0fOTLGNnZ419MWM7w4v53yj/7avZ+daR/h80VpptaOziawV8SHM9fhnCEkMVrLvf3vyg8HR
 M1L0A22vdRus6i2i0aV/O0VRo3aKXYzade9o3FlfxkZhjP48g2OOTwbGTE8xOOB4rY2MSC8ej7qh
@@ -2999,7 +2999,7 @@ rkJggg==</bitmap>
       <bitmap_item guid="537d3665-10c9-47b6-bc06-0399e9c23ee9" index="59" />
       <bitmap_item guid="3be44ca6-48c4-4b5b-84ef-21be3513c14f" index="60" />
       <bitmap>iVBORw0KGgoAAAANSUhEUgAAACAAAAegCAYAAACobVCiAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
-AAAOvAAADrwBlbxySQAA/7JJREFUeF7s/QVYVsv3Pg5zOGknSDdIi0FYoAh2oiIKiopK2N1id3cd
+AAAOwQAADsEBuJFr7QAA/7JJREFUeF7s/QVYVsv3Pg5zOGknSDdIi0FYoAh2oiIKiopK2N1id3cd
 u7u7u1ARxEBFFCnpzud+15rngSOKCoif7+/6v946F/uZvffM2pNrrVmzRq6oqFZHtWnt+W02dAwY
 /aZ3xgI4Yw6GYR28c1fAB6vglDsDdpdn57Y66f245oD60/6p/I+m7NUfg0IDrea2Z/peccdS9MAC
 tPIfhvrbXd7oDW5wuNYw+wNWo1odNB3eZL/prOZn7C70j+0c5ws3LIZz3DRYzGy5r0L1CvqypIqN
