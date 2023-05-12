@@ -38,7 +38,7 @@
   <XmlSetting>
     <Name>Debugging</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
+    <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>EULA</Name>
@@ -268,6 +268,6 @@
   <XmlSetting>
     <Name>Version</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>2.6.405.0</Data>
+    <Data>2.6.462.0</Data>
   </XmlSetting>
 </ArrayOfXmlSetting>
