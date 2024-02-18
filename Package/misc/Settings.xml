@@ -86,6 +86,11 @@
     <Data>0.15</Data>
   </XmlSetting>
   <XmlSetting>
+    <Name>MultiOrientProfileColor</Name>
+    <Type>System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Type>
+    <Data>#00FFFFFF</Data>
+  </XmlSetting>
+  <XmlSetting>
     <Name>MultiOrientRotation</Name>
     <Type>System.Double, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
     <Data>0</Data>
@@ -183,7 +188,7 @@
   <XmlSetting>
     <Name>StoneDisplayFilter</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False,True</Data>
+    <Data>True,True</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneDisplayFont</Name>
@@ -213,7 +218,7 @@
   <XmlSetting>
     <Name>StoneDisplayUseObjectColor</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
+    <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneInsertLayerColor</Name>
@@ -238,7 +243,7 @@
   <XmlSetting>
     <Name>StoneSummaryExtended</Name>
     <Type>System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>False</Data>
+    <Data>True</Data>
   </XmlSetting>
   <XmlSetting>
     <Name>StoneSummaryGrouped</Name>
@@ -268,6 +273,6 @@
   <XmlSetting>
     <Name>Version</Name>
     <Type>System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Type>
-    <Data>2.6.462.0</Data>
+    <Data>2.6.864.0</Data>
   </XmlSetting>
 </ArrayOfXmlSetting>
